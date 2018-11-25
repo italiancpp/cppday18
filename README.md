@@ -24,7 +24,7 @@ Talks:
   * [slides](/Runtime%20Reflection%20-%20Michele%20Caini.pdf)
   * video
 * Lessons Learned Developing Evolutionary Algorithms in C++ by Manlio Morini
-  * [slides](/(Slightly)%20Smarter%20Smart%20Pointers%20-%20Carlo%20Pescio.pdf)
+  * [slides](/Lessons%20Learned%20Developing%20Evolutionary%20Algorithms%20in%20C%2B%2B%20-%20Manlio%20Morini.pdf)
   * video
 * Il punto su C++20 by Alberto Barbati
   * [slides](/Il%20Punto%20su%20C%2B%2B20%20-%20Alberto%20Barbati.pdf)
