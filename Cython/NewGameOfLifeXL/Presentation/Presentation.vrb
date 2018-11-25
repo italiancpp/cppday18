@@ -1,0 +1,18 @@
+\frametitle{Hello World - C++ vs Python}
+\begin{itemize}
+	\pause
+	\item \textbf{C++}\\
+	\begin{minted}{c++}
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Hello World!" << endl;
+    return 0;
+}
+	\end{minted}
+	\pause
+	\item \textbf{Python 3} \\
+	\begin{minted}{python3}
+print("Hello World!")
+	\end{minted}
+\end{itemize}
